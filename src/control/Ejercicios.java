@@ -216,7 +216,7 @@ public class Ejercicios {
 		
 		return resultado;
 	}
-	// *********************************************************
+
 	// ***************************** main **********************
 	public static void main(String[] args) {
 		Ejercicios ejercicios = new Ejercicios();
