@@ -80,6 +80,7 @@ public class Ejercicios {
 			System.out.print(" ," + total);
 			num1 = num2;
 			num2 = total;
+			
 		}
 	}
 
@@ -215,7 +216,7 @@ public class Ejercicios {
 		
 		return resultado;
 	}
-
+	//**********************************************************
 	// ***************************** main **********************
 	public static void main(String[] args) {
 		Ejercicios ejercicios = new Ejercicios();
